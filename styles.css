@@ -1,0 +1,35 @@
+body{
+    font-family: Poppins;
+    background-image: url(/img/to-do-list-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.font_size{
+    font-size: 15px;
+}
+.list-font-size{
+    font-size: 12px;
+    font-weight: bold;
+}
+.task-text{
+    font-size:13px;
+}
+.button-font-size{
+    font-size: 13px;
+}
+.add-task-container{
+    position:relative;
+    top:35px;
+
+}
+.list-label{
+    margin-top: 6px;
+}
+.delete-task-button{
+    margin-top: 2.5px;
+    font-size: 1rem;
+    cursor:pointer;
+}
+.text-underline{
+    text-decoration: line-through;
+}
